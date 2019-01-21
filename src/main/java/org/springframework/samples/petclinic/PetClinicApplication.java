@@ -29,6 +29,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class PetClinicApplication {
 
     public static void main(String[] args) {
+        System.out.println("Test SCM3");
         SpringApplication.run(PetClinicApplication.class, args);
         System.out.println
     }
